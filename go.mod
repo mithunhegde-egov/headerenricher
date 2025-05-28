@@ -1,4 +1,4 @@
-module github.com/mithun/gin-headerenricher
+module github.com/mithunhegde-egov/headerenricher
 
 go 1.19
 
